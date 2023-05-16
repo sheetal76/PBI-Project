@@ -14,3 +14,6 @@ To unlock revenue insights that are not visible before for revenue team and help
 #### Outcome:
 We are able to see revenue change week over week and which room category is making profit and on which days the revenue is low.
 Based on these KPIs we can make our decision more effectively.
+
+
+<img width="663" alt="dashboard" src="https://github.com/sheetal76/PBI-Project/assets/122160812/d23491bd-712d-4b85-9eb7-99bf558025b4">
